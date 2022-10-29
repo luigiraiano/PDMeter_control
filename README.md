@@ -3,7 +3,7 @@
 Firmware for controlling and using The PDMeter wearable robot.
 
 ## Use the PDMeter
-You can use and interact with the PDMEter using a GUI, available here: [PDMeter_UI](https://github.com/luigiraiano/PDMeter_UI.git).
+You can use and interact with the PDMeter using a GUI, available here: [PDMeter_UI](https://github.com/luigiraiano/PDMeter_UI.git).
 
 ## How to build the FW
 The FW is a SW4STM32 project. Thus, you need to download the environemt and then you can load the project.
